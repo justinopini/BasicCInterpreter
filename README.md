@@ -1,2 +1,2 @@
 # BasicCInterpreter
-Inter prates Basic C and shows the memory stack when run.
+Interprates Basic C and shows the variables memory trace when run.
